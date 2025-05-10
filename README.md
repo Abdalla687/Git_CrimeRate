@@ -5,4 +5,4 @@ The goal of this project is to build a machine learning model that predicts crim
 * Predict the number of crimes in a region (per week/month/year)
 * Identify high-risk areas using historical patterns.
 * Predict the likelihood or type of crime given a certain location and time.
-### My Profile [Linkedin](www.linkedin.com/in/abdullah-emad-449867358)
+
