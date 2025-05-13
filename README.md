@@ -1,5 +1,5 @@
 <h1 align="center">Crime Rate Prediction 🏛️</h1>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+<img align="right" alt="coding" height="180" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <h3 align="left">Crime Rate Prediction OverView 🔑</h3> 
 <ul>
   <li>
@@ -9,10 +9,14 @@
 </ul>
 <h3 align="left">Project Objectives 👌</h3>
 <ul>
-  <li>
+    <li>
     Predict the number of crimes in a region (per week/month/year)
+    </li>
+    <li>
     Identify high-risk areas using historical patterns.
+    </li>
+    <li>
     Predict the likelihood or type of crime given a certain location and time.
-  </li>
+   </li>
 </ul>
 
