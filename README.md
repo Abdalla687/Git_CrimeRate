@@ -1,4 +1,6 @@
-# Crime Rate Prediction
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+
+# Crime Rate Prediction 🏛️
 ## Crime Rate Prediction OverView:
 The goal of this project is to build a machine learning model that predicts crime rates (or types of crimes) in a specific location based on historical data and contextual features such as time, geography, and socio-economic factors.
 ## Project Objectives:
